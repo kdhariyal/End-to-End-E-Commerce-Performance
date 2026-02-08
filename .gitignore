@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+__pycache__/
+logs/
+dashboard_assets/.DS_Store/
+.DS_Store/
+data/.DS_Store/
