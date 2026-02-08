@@ -1,4 +1,4 @@
-# End-to-End-E-Commerce-Performance 🚀
+# End to End E-Commerce Performance 🚀
 End-to-end analysis of E-Commerce Performance, including SQL extraction, Python predictive modeling, and Looker Studio dashboarding.
 
 ![Project Status](https://img.shields.io/badge/Status-Completed-success)
